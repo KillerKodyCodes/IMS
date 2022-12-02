@@ -1,8 +1,9 @@
 {
+  "homepage": "http://KillerKodyCodes.github.io/IMS",
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://killerkodycodes.github.io/IMS",
+  
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
